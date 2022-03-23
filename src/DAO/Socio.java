@@ -14,6 +14,7 @@ public class Socio {
     public String Direccion;
     public String Telefono;
     public String Telefono2;
+    public String Telefono3;
     public Socio() {
     }
 
