@@ -15,6 +15,22 @@ public class Socio {
     public String Telefono;
     public String Telefono2;
     public String Telefono3;
+
+    public String getTelefono2() {
+        return Telefono2;
+    }
+
+    public void setTelefono2(String Telefono2) {
+        this.Telefono2 = Telefono2;
+    }
+
+    public String getTelefono3() {
+        return Telefono3;
+    }
+
+    public void setTelefono3(String Telefono3) {
+        this.Telefono3 = Telefono3;
+    }
     public Socio() {
     }
 
