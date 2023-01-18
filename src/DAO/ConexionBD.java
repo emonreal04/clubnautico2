@@ -15,7 +15,7 @@ import java.sql.SQLException;
 public class ConexionBD implements iConexionBD {
     public String cadenaConexion="jdbc:mysql://localhost/clubnautico";
     public String usuario="root";
-    public String password="test1234";
+    public String password="test1234323";
 
     public ConexionBD() {
     }
